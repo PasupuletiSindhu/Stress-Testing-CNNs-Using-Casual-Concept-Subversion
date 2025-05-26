@@ -79,8 +79,8 @@ Each patch is chosen using LPIPS and CLIP to ensure *visual plausibility* and *s
 ### 1. Clone the repository
 
 bash
-git clone https://github.com/yakkala-pooja/Stress-Testing-CNNs-Using-Causal-Concept-Subversion-CCS.git
-cd Stress-Testing-CNNs-Using-Causal-Concept-Subversion-CCS
+git clone https://github.com/PasupuletiSindhu/Stress-Testing-CNNs-Using-Casual-Concept-Subversion.git
+cd Stress-Testing-CNNs-Using-Causal-Concept-Subversion
 
 
 ### 2. Install dependencies
